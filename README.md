@@ -50,4 +50,5 @@ If the account is closed
       Note:  No if-else, switch will be used
 
 # UML Class Diagram
-![Strategy Pattern](https://github.com/JamesManalili/StatePattern/assets/142465145/b2d7bb45-4cd9-4356-8886-badfd1a628fa)
+![StatePattern](https://github.com/JamesManalili/StatePattern/assets/142465145/240eaeba-cbd7-4f1b-b416-283e1e1a18eb)
+
